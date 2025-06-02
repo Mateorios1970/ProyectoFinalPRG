@@ -9,4 +9,6 @@
     - 04_modelo_2.ipynb: Aplicación de RandomizedSearchCV
     - 05_comparacion.ipynb: Se comparan ambos modelos predictivos
     - 06_dataset.csv: El Dataset siendo utilizado
-    - Informe.pdf: Analisis y conclusiones obtenidas de este proceso. 
+    - Informe.pdf: Analisis y conclusiones obtenidas de este proceso.
+ 
+- NOTA: El Archivo 06_dataset.csv, al ser tan grande y pesado tuvo que ser comprimido, por ende para el buen funcionamiento del codigo este archivo tiene que ser descomprimido 
